@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://taweewat.netlify.app/sitemap.xml
+Sitemap: https://leogulus.github.io/research_group//sitemap.xml
