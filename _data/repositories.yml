@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - leogulus
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - leogulus/Astro_Scripts
+  - leogulus/cxo-pipe
+  
