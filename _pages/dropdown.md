@@ -2,12 +2,13 @@
 layout: page
 title: more
 nav: true
-nav_order: 6
+nav_order: 5
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: news
+      permalink: /news/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: teaching
+      permalink: /teaching/
+      
 ---
