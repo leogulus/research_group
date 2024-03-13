@@ -18,7 +18,10 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am an astrophysicist with a dedicated focus on extragalactic astronomy, particularly specializing in a specific category of objects known as "galaxy clusters." Through a combination of multi-wavelength observations, encompassing optical, infrared, millimeter, and X-ray data, I investigate the intricacies of galaxy cluster formation and evolution. My research integrates data from an array of ground-based and space-based telescopes, allowing me the opportunity to characterize the dynamical state, thermodynamic structure, and cosmological significance of these remarkable objects.
+Taweewat Somboonpanyakul is currently a lecturer at Chulalongkorn Univesrity in Bangkok, Thailand. Previously he was a Kavli Postdoctoral Fellow at the Kavli Institute for Particle Astrophysics and Cosmology at Stanford University, under the direction of Prof. Steve Allen. Taweewat obtained his Bachelor’s degree in Physics with a specialization in Astrophysics at the University of Chicago in Chicago, IL, and his PhD in Physics at Massachusetts Institute of Technology in Cambridge, MA. 
+
+Taweewat's research focuses on studying the properties and evolutions of clusters of galaxies and their massive central galaxies. He leveraged a diverse array of ground- and space-based observatories, including the Hubble and Chandra space telescopes, as well as the Magellan telescopes in Chile. He has expertise in computer programming using Python, which is the primary coding language in astrophysics. These tools enable him of characterize the dynamical state, thermodynamic structure, and cosmological significance of these remarkable objects. 
+
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
