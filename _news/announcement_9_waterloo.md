@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Astro Tech Field Trip at NARIT in Chiang Mai in March 2024"
+title: "🇨🇦 Attended the McNamara@65 conference at the University of Waterloo, Canada, in May 2024"
 date: 2024-05-29 07:59:00+0700
 inline: false
 related_posts: false
