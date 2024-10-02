@@ -12,14 +12,22 @@ nav_order: 5
 ### Graduate Students
 
 - Puttichai Lorchutnopphakhun (Non)   
-![Member 1 Photo](path/to/photo3.jpg)
+<div class="row mt-3">
+    <div class="col">
+        {% include figure.html path="assets/img/students/non.jpg" title="group" class="img-fluid rounded z-depth-1 w-25" %}
+    </div>
+</div>
 
 --- 
 
 ### Undergraduate Students
 
 - Theerachot Rattanasiridamri (Win)  
-![Member 2 Photo](assets/img/students/win.jpg)
+<div class="row mt-3">
+    <div class="col">
+        {% include figure.html path="assets/img/students/win.jpg" title="group" class="img-fluid rounded z-depth-1 w-25" %}
+    </div>
+</div>
 
 - Parin Sricharoenchai (Ryu)  
 ![Member 3 Photo](path/to/photo3.jpg)
