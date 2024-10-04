@@ -30,6 +30,17 @@ nav_order: 5
 </div>
 
 - Parin Sricharoenchai (Ryu)  
-![Member 3 Photo](path/to/photo3.jpg)
+<div class="row mt-3">
+    <div class="col">
+        {% include figure.html path="assets/img/students/ryu.jpg" title="group" class="img-fluid rounded z-depth-1 w-25" %}
+    </div>
+</div>
+
+- Nattapat Suchartsuthatham (Net)  
+<div class="row mt-3">
+    <div class="col">
+        {% include figure.html path="assets/img/students/net.jpg" title="group" class="img-fluid rounded z-depth-1 w-25" %}
+    </div>
+</div>
 
 --- 
