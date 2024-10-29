@@ -11,6 +11,9 @@ children:
     - title: news
       permalink: /news/
     - title: divider
+    - title: media
+      permalink: /media/
+    - title: divider
     - title: teaching
       permalink: /teaching/
       
