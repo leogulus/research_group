@@ -30,7 +30,7 @@ galaxy cluster](https://dailygalaxy.com/2021/10/690-trillion-suns-new-look-at-an
 - 2017/08/24 - [Young researchers present on the global stage](https://medium.com/sparrow/young-researchers-present-on-the-global-stage-part-6-1a24b73e1a9d#:~:text=Somboonpanyakul%20%E2%80%94%20MIT%2C%20USA-,Taweewat%20Somboonpanyakul,-PhD%20Student%20at) - Sparrow Science
 
 #### Video Interviews
-- 2024/11/08 - [เส้นทางชีวิต นักดาราศาสตร์ไทย | โตไปใช้แมท Podcast EP 1](https://www.youtube.com/watch?v=bHsacUMRuSg): In this video, I discussed how mathematics is applied in astronomy, provided examples of mathematical concepts used in the field, shared insights into my research and interests in astronomy, and answered questions from the live audience. (Youtube) 🇹🇭
+- 2024/11/08 - [เส้นทางชีวิต นักดาราศาสตร์ไทย: โตไปใช้แมท Podcast EP 1](https://www.youtube.com/watch?v=bHsacUMRuSg): In this video, I discussed how mathematics is applied in astronomy, provided examples of mathematical concepts used in the field, shared insights into my research and interests in astronomy, and answered questions from the live audience. (Youtube) 🇹🇭
 
 - 2024/08/31 - [ถ้าเอเลี่ยนมีจริง? วิเคราะห์หนัง Contact และ Arrival Thai PBS Sci & Tech](https://www.youtube.com/watch?v=hiG9_OEJdn8): In this video, I answered questions about the science behind Contact and Arrival, discussing what's possible and the insights we gain from sci-fi films. (YouTube) 🇹🇭
 
