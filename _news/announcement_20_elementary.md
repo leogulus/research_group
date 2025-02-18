@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing Young Minds to Stargazing"
+title: "Introducing Young Minds to Stargazing at Chulalongkorn University Demonstration Elementary School"
 date: 2025-02-10 07:59:00+0700
 inline: false
 related_posts: false

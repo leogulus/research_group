@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing Young Minds to Stargazing"
+title: "Unlocking the Cosmos: How Data Science Powers the Latest Discoveries in Astrophysics"
 date: 2025-01-12 07:59:00+0700
 inline: false
 related_posts: false
@@ -28,3 +28,8 @@ The lecture was well attended by students from both the Statistics and Physics d
     </div>
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/kku2025/04.jpg" title="astro" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
