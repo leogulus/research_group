@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the 21st Thailand Astronomy Olympaid (TAO21)"
+title: "the 21st Thailand Astronomy Olympiad (TAO21)"
 date: 2024-05-05 07:59:00+0700
 inline: false
 related_posts: false
