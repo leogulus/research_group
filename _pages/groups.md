@@ -35,12 +35,3 @@ nav_order: 5
         {% include figure.html path="assets/img/students/ryu.jpg" title="group" class="img-fluid rounded z-depth-1 w-25" %}
     </div>
 </div>
-<!-- 
-- Nattapat Suchartsuthatham (Net)  
-<div class="row mt-3">
-    <div class="col">
-        {% include figure.html path="assets/img/students/net.jpg" title="group" class="img-fluid rounded z-depth-1 w-25" %}
-    </div>
-</div>
-
----  -->
