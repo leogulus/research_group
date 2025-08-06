@@ -17,6 +17,7 @@ Welcome to the media highlights of Taweewat Somboonpanyakul, where you can explo
 ### Media Content Featuring Me
 
 #### Articles about My Research:
+- 2022/08/08: [Decoding the Mystery of Dark Matter Using Galaxy Clusters](https://www.calacademy.org/events/benjamin-dean-astronomy-lectures/decoding-the-mystery-of-dark-matter-using-galaxy-clusters) - Benjamin Dean Astronomy Lectures, California Academy of Sciences
 - 2021/10/27: [690 Trillion Suns-new look at an ancient quasar so bright it obscured a massive
 galaxy cluster](https://dailygalaxy.com/2021/10/690-trillion-suns-new-look-at-an-ancient-quasar-so-bright-it-obscured-a-massive-galaxy-cluster/) - Daily Galaxy
 - 2021/03/26: [MIT astronomers discover galaxy clusters hiding in plain sight](https://news.mit.edu/2021/mit-astronomers-discover-new-galaxy-clusters-hiding-plain-sight-0326) - MIT News Press, [Sci-news.com](https://www.sci.news/astronomy/chips-survey-three-galaxy-clusters-09524.html)
@@ -30,6 +31,8 @@ galaxy cluster](https://dailygalaxy.com/2021/10/690-trillion-suns-new-look-at-an
 - 2017/08/24 - [Young researchers present on the global stage](https://medium.com/sparrow/young-researchers-present-on-the-global-stage-part-6-1a24b73e1a9d#:~:text=Somboonpanyakul%20%E2%80%94%20MIT%2C%20USA-,Taweewat%20Somboonpanyakul,-PhD%20Student%20at) - Sparrow Science
 
 #### Video Interviews
+- 2025/07/26 - [STT51 : SP9 : Exploring The Cosmos [Podcast] ทันโลกวิทยาศาสตร์โดย อ.ดร.ทวีวัฒน์ สมบูรณ์ปัญญากุล (ออกอากาศวันที่ 26 ก.ค. 2568)](https://www.youtube.com/watch?v=tp85VMmYE2g): I introduced and promoted the astrophysics research symposium at an international conference (STT51) held at Chulalongkorn University from November 11–13, 2025. (YouTube) 🇹🇭
+
 - 2024/11/08 - [เส้นทางชีวิต นักดาราศาสตร์ไทย: โตไปใช้แมท Podcast EP 1](https://www.youtube.com/watch?v=bHsacUMRuSg): In this video, I discussed how mathematics is applied in astronomy, provided examples of mathematical concepts used in the field, shared insights into my research and interests in astronomy, and answered questions from the live audience. (Youtube) 🇹🇭
 
 - 2024/08/31 - [ถ้าเอเลี่ยนมีจริง? วิเคราะห์หนัง Contact และ Arrival Thai PBS Sci & Tech](https://www.youtube.com/watch?v=hiG9_OEJdn8): In this video, I answered questions about the science behind Contact and Arrival, discussing what's possible and the insights we gain from sci-fi films. (YouTube) 🇹🇭
