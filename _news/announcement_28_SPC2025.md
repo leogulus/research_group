@@ -10,7 +10,7 @@ This year, I had the opportunity to serve as an invited speaker and session chai
 
 My invited talk was titled “SPT-CL J0417-4748: A Case of a Relaxed Galaxy Cluster Lacking Central Star Formation.” It was also the first time my students, both an undergraduate working on a senior thesis and a master’s student, had the chance to give oral presentations at the conference. SPC2025 is an excellent platform for students to present their research results in a professional setting, providing an invaluable opportunity to develop communication skills early in their scientific careers.
 
-You can check out the slides from my presentation [here]((assets/pdf/Slide_SPC2025_compressed.pdf)) for more details.
+You can check out the slides from my presentation [here](https://leogulus.github.io/research_group/assets/pdf/Slide_SPC2025_compressed.pdf) for more details.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
