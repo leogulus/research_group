@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Research Visit at Swinburne University of Technology, Melbourne"
+title: "🇦🇺 Research Visit at Swinburne University of Technology, Melbourne"
 date: 2025-09-21 07:59:00+0700
 inline: false
 related_posts: false
