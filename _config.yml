@@ -8,7 +8,7 @@ middle_name:
 last_name: Somboonpanyakul
 email: taweewat.s@chula.ac.th
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Chulalongkorn Astronomy Lab with Taweewat Somboonpanykaul (ห้องปฏิบัติการดาราศาสตร์ที่จุฬาลงกรณ์มหาวิทยาลัย กับ อาจารย์ ทวีวัฒน์ สมบุญปัญญากูล)
+  Chulalongkorn Astronomy Lab with Taweewat Somboonpanykaul (ห้องปฏิบัติการดาราศาสตร์ที่จุฬาลงกรณ์มหาวิทยาลัย กับ อาจารย์ ทวีวัฒน์ สมบุญปัญญากุล)
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
