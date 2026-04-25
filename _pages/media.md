@@ -28,7 +28,7 @@ galaxy cluster](https://dailygalaxy.com/2021/10/690-trillion-suns-new-look-at-an
 ](https://www.space.com/41026-huge-galaxy-cluster-hiding-plain-sight.html) - Space.com
 
 #### Articles about Me: 
-- 2026/04/25 - [จากนักเรียนค่ายดาราศาสตร์สู่อาจารย์ค่ายดาราศาสตร์](assets/pdf/TAO23_Taweewat.pdf) - Interview at Thai Astronomy Olympiad (TAO23), Khon Kaen University 🇹🇭
+- 2026/04/25 - [จากนักเรียนค่ายดาราศาสตร์สู่อาจารย์ค่ายดาราศาสตร์](https://leogulus.github.io/research_group/assets/pdf/TAO23_Taweewat.pdf) - Interview at Thai Astronomy Olympiad (TAO23), Khon Kaen University 🇹🇭
 - 2017/08/24 - [Young researchers present on the global stage](https://medium.com/sparrow/young-researchers-present-on-the-global-stage-part-6-1a24b73e1a9d#:~:text=Somboonpanyakul%20%E2%80%94%20MIT%2C%20USA-,Taweewat%20Somboonpanyakul,-PhD%20Student%20at) - Sparrow Science
 
 #### Video Interviews
