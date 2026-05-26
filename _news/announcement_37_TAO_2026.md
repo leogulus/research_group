@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Another Year at the Thai Astronomy Olympiad (TAO23)"
-date: 2026-02-04 07:59:00+0700
+date: 2026-05-10 07:59:00+0700
 inline: false
 related_posts: false
 ---
